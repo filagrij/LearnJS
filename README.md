@@ -1,2 +1,5 @@
 # learnJS
-Learning JS repository
+# my-first-repository
+fgfgfgf
+my first repository
+
